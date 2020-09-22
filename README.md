@@ -79,7 +79,10 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
 
 <ul>
 <li><a href="https://github.com/kalismeras61/flutter_awesome_design_pages">kalismeras61/flutter_awesome_design_pages  ★193 </a>: Flutter Awesome Design Pages and Widgets </li>
-
+  <li><a href="https://github.com/deven98/FlutterSolitaire"> deven98/FlutterSolitaire   ★147 </a>: A Solitaire clone made in Flutter. </li>
+<li><a href="https://github.com/rohan20/flutter-products-tutorial"> rohan20/flutter-products-tutorial ★121 </a>: A Flutter e-commerce starter kit built using ScopedModel </li>
+  <li><a href="https://github.com/wchaowu/flutter_sample">wchaowu/flutter_sample ★119 </a>: jd joybuy flutter sample </li>
+    <li><a href="https://github.com/flutter-devs/flutter_splash_app">flutter-devs/flutter_splash_app  ★117 </a>: A Flutter app to showcase different types of Splash Screens </li>
 </ul>
 
 
