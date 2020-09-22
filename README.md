@@ -83,6 +83,10 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
 <li><a href="https://github.com/rohan20/flutter-products-tutorial"> rohan20/flutter-products-tutorial ★121 </a>: A Flutter e-commerce starter kit built using ScopedModel </li>
   <li><a href="https://github.com/wchaowu/flutter_sample">wchaowu/flutter_sample ★119 </a>: jd joybuy flutter sample </li>
     <li><a href="https://github.com/flutter-devs/flutter_splash_app">flutter-devs/flutter_splash_app  ★117 </a>: A Flutter app to showcase different types of Splash Screens </li>
+   <li><a href="https://github.com/nb312/flutter-animations"> nb312/flutter-animations ★117 </a>: Flutter animation tutorials, such common animation, flare animation. </li>
+   <li><a href="https://github.com/lzyy/habbit"> lzyy/habbit  ★117 </a>: an ultra simple habit tracker powered by flutter </li>
+    <li><a href="https://github.com/superjakegough/recipeapp"> superjakegough/recipeapp ★114 </a>: Recipe App UI template using Flutter. </li>
+    <li><a href="https://github.com/flutter-devs/flutter_gridview_demo">flutter-devs/flutter_gridview_demo ★83 </a>: A Flutter app to showcase GridView UI. </li>
 </ul>
 
 
